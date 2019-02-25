@@ -2,7 +2,7 @@
 
 |||
 |-------:|:----------|
-| ![layers01](https://user-images.githubusercontent.com/9797472/27418819-6ed10544-56d2-11e7-95b3-110335d74db7.png) | ![layers02](https://user-images.githubusercontent.com/9797472/27418842-8564a266-56d2-11e7-92c6-456116ee0c65.png)|
+| ![layers01](https://user-images.githubusercontent.com/9797472/53321994-e4ffed80-388e-11e9-8977-7df456744329.png) | ![layers02](https://user-images.githubusercontent.com/9797472/27418842-8564a266-56d2-11e7-92c6-456116ee0c65.png)|
 
 ## Layering Rules:
 
